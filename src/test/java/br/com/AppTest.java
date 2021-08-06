@@ -1,4 +1,4 @@
-package br.com.desafioAccenture;
+package br.com;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
